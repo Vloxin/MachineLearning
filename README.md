@@ -1,4 +1,5 @@
 # Description : 
+
 In this health insurance data analysis and prediction project, our primary objective is to build a robust machine learning model capable of predicting whether an individual is a smoker or not based on various health insurance data attributes. The dataset encompasses crucial features.
   
  Our project roadmap includes tasks such as visualizing the distribution of the class labels, creating density plots for age and BMI, and exploring the relationships through scatterplots categorized by the region attribute. Subsequently, we will employ machine learning algorithms, specifically K-Nearest Neighbors (KNN) with varying K values, Decision Trees , Naive Bayes (NB), and Artificial Neural Networks (ANN) with a single hidden layer. 
@@ -6,7 +7,8 @@ In this health insurance data analysis and prediction project, our primary objec
  Performance metrics such as ROC/AUC score and Confusion Matrix will be utilized to evaluate and compare the models.
  
  The results will be meticulously documented in a comprehensive report, providing insights into the strengths and weaknesses of each algorithm, ultimately identifying the most effective model for predicting smoking status in the given dataset.
-
+ 
+#Data visualisation :
  ![image](https://github.com/Vloxin/MachineLearning/assets/105583524/57d3bcf7-19f0-4ea9-b4eb-6b1392ab0a58)
 
 
